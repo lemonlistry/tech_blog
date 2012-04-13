@@ -1,0 +1,8 @@
+﻿    VERSION DATE       TYPE   CHANGES
+    1.0.1   2011/03/08 NEW    Added Ajax post loading function.
+                       NEW    Added new social share buttons in single post.
+                       NEW    Added selected display micro-blog function in background theme setting.
+                       NEW    Added Feedsky Statistic plugin support.
+                       FIX    Fixed change & close switch buttons style above comment form.
+                       FIX    Fixed style for Ajax comment & thread comments.
+                       FIX    Fixed category style.
