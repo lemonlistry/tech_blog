@@ -18,7 +18,7 @@
 define('DB_NAME', 'tech_blog');
 
 /** MySQL 数据库用户名 */
-define('DB_USER', 'replication');
+define('DB_USER', 'root');
 
 /** MySQL 数据库密码 */
 define('DB_PASSWORD', '221058_qm');
